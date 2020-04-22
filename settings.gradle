@@ -1,0 +1,2 @@
+rootProject.name='RemedialAhorcado'
+include ':app'

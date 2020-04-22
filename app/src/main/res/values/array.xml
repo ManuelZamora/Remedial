@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="palabras">
+        <item>LARAVEL</item>
+        <item>ANDROIDSTUDIO</item>
+        <item>JAVA</item>
+        <item>ARDUINO</item>
+        <item>ADONIS</item>
+        <item>RELATIVE</item>
+        <item>FRAME</item>
+    </string-array>
+</resources>
